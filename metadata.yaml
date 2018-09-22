@@ -1,5 +1,8 @@
 _repo: Life-and-Times-of-Her-Majesty-Caroline-Matilda-Vol-3-of-3-Queen-of-Denmark-and-Norway-and-Sis__55369
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55369-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Wraxall, Lascelles, Sir
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '41528'
     url: http://www.gutenberg.org/2009/agents/41528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55369#Life-and-Times-of-Her-Majesty-Caroline-Matilda-Vol-3-of-3-Queen-of-Denmark-and-Norway-and-Sis_
 gutenberg_issued: '2017-08-17'
 gutenberg_type: Text
 identifiers:
